@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "786618093257",
+    "project_id": "daily-news-e2ed2",
+    "storage_bucket": "daily-news-e2ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786618093257:android:5511fe206e1b4c92808718",
+        "android_client_info": {
+          "package_name": "com.news.daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786618093257-5ses8v39frm3dafbl4gt2t2b55hu2uj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9A8etaR_DFFXlX0qj7fs3rfF_VKocRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786618093257-5ses8v39frm3dafbl4gt2t2b55hu2uj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786618093257-vuurmn2rr6he9p2013afju239nn87i5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.news.daily"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
